@@ -1,2 +1,9 @@
-﻿Console.WriteLine("Hello, World!");
-fghfgh
+﻿Console.Clear();
+
+Console.WriteLine("Hello, World!");
+
+Console.Clear();
+
+125
+
+
